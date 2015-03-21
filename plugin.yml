@@ -1,0 +1,5 @@
+name:AntiWeather
+author: kevinjss1
+main: org.kevinjss1.bukkit.AntiWeather.Main
+description: A custom No Weather Plugin
+version: 1.0
